@@ -4,8 +4,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vite,mui,html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vite,mui,html,css,tailwind,redux" />
+    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,regex,nodejs" /><br>
 </div>
 
 <br/>
@@ -23,5 +23,8 @@
 <h3 align="center">Statistics</h2>
 
 <div align="center">
-    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xEdemo&size_weight=0.5&count_weight=0.5&layout=donut&theme=react&border_radius=10" alt="top langs" />
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xEdemo&size_weight=0.5&count_weight=0.5&layout=donut&theme=light&border_radius=10" alt="top langs" />
+    <br/>
+    <p>Wakatime Embedded Chart: Coding Activity Over the Past Year</p>
+    <img height=400 src="https://wakatime.com/share/@018cc20f-9b4e-4a3a-af42-ea8c63858ac9/d841b018-5060-44ee-8532-e377eef3d350.svg" />
 </div>
