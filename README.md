@@ -28,7 +28,8 @@
     <p>Wakatime Embedded Chart: Coding Activity Over the Past Year</p>
     <img height=400 src="https://wakatime.com/share/@018cc20f-9b4e-4a3a-af42-ea8c63858ac9/d841b018-5060-44ee-8532-e377eef3d350.svg" />
 </div>
-
+<hr/>
+<br/>
 <div align="center">
   <img src="lahey.gif" alt="Lahey" />
 <div>
